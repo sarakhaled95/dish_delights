@@ -4,6 +4,9 @@ body {
 .title-head {
     font-family: "Bona Nova SC", serif;
 }
-.title-second {
+.title-italic {
     font-family: "Allison", cursive;
+}
+.secondary-title {
+    font-family: "Arsenal SC", sans-serif;
 }
