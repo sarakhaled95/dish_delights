@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment} from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './pages/Home';
@@ -10,14 +10,14 @@ class App extends Component {
     render() {
         return (
             <Router>
-                <main>
-                <Routes>
-                        <Route path="/" exact component={Home} />
-                        <Route path="/recipes" exact component={Recipes} />
-                        <Route path="/recipes/:id" component={SingleRecipe} />
-                        <Route component={Default} />
-                </Routes>
-            </main>
+            <>
+            <Routes>
+                <Route path='/' element={<Home />} />
+                <Route path='/recipes'  element={<Recipes />} />
+                <Route path='/recipes/:id' element={<SingleRecipe />} />
+                <Route path='/*' element={<Default />} />
+            </Routes>
+            </>
             </Router>
         );
     }
