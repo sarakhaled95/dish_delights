@@ -8,5 +8,50 @@ body {
     font-family: "Allison", cursive;
 }
 .secondary-title {
-    font-family: "Arsenal SC", sans-serif;
+    font-family: "Arsenal SC", sans-serif!important;
+}
+.background {
+    background: url("./images/homebg.jpg") center no-repeat;
+    height: 35vh;
+}
+.bgdefault {
+    background: url("./images/homebg.jpg") center no-repeat;
+    height: 87vh;
+    text-align: center;
+}
+.mainlogo {
+    background: url("./images/toplogo1.jpg") center no-repeat;
+    height: 35vh;
+}
+.footerimg {
+    background: url("./images/footer.jpg") center no-repeat;
+    height: 20vh;
+
+}
+.container {
+    text-align: center;
+}
+.container2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    border-radius: 0px !important;
+    margin: 3px!important;
+    font-size: small!important;
+    outline:solid 1px #72884A!important;
+    background-color:white!important;
+}
+.default {
+    font-size: 40px;
+    background-color: white;
+}
+.headrecipe {
+    background: url("./images/recipe.jpg") center no-repeat;
+    height: 20vh;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.row {
+    width: 55%;
 }
