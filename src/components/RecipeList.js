@@ -3,9 +3,15 @@ import Recipe from './Recipe';
 
 export default class RecipeList extends Component {
     render() {
-        return <div>
-            hello from recipe List
-            <Recipe></Recipe>
-        </div>;
+        const { recipes } = this.props;
+        return (
+            <>
+                <div className="container py-5">
+                    <div className="row">
+                        {recipes.map(recipe => (<Recipe key={recipe.label} recipe={recipe} />))}
+                    </div>
+            </div>
+            </>
+        );
     }
 }

@@ -7,6 +7,12 @@ export const recipeData = [
             0: "1 whole chicken, about 4 pounds",
             1: "2 tablespoons kosher salt",
             2: "2 tablespoons butter, melted"
+        },
+        mealType: {
+            0: "lunch/dinner"
+        },
+        dishType: {
+            0: "starter"
         }
     },
     {
@@ -16,6 +22,12 @@ export const recipeData = [
         ingredientLines: {
             0: "2 chicken thighs",
             1: "2 chicken legs",
+        },
+        mealType: {
+            0: "lunch/dinner"
+        },
+        dishType: {
+            0: "condiments and sauces"
         }
     }
 ]

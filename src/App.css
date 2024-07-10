@@ -9,6 +9,7 @@ body {
 }
 .secondary-title {
     font-family: "Arsenal SC", sans-serif!important;
+    text-align: center;
 }
 .background {
     background: url("./images/homebg.jpg") center no-repeat;
@@ -28,20 +29,21 @@ body {
     height: 20vh;
 
 }
-.container {
-    text-align: center;
-}
+
 .container2 {
     text-align: center;
     display: flex;
     justify-content: center;
 }
+.container3 {
+    text-align: center;
+}
 .btn {
-    border-radius: 0px !important;
-    margin: 3px!important;
-    font-size: small!important;
-    outline:solid 1px #72884A!important;
-    background-color:white!important;
+    border-radius: 2px !important;
+    margin: 3px !important;
+    font-size: small !important;
+    outline: solid 1px #72884A !important;
+    background-color: white !important;
 }
 .default {
     font-size: 40px;
@@ -49,9 +51,9 @@ body {
 }
 .headrecipe {
     background: url("./images/recipe.jpg") center no-repeat;
-    height: 20vh;
+    height: 130px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
-.row {
+.row5{
     width: 55%;
 }

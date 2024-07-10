@@ -6,7 +6,7 @@ export default class Home extends Component {
         return (
             <>
             
-                <div className="container">
+                <div className="container3">
                     <div className="mainlogo"></div>
                     <div className="background">
                         <Link to="recipes" className="secondary-title btn btn-light btn-lg mt-5">SEARCH RECIPES</Link>

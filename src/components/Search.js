@@ -7,7 +7,7 @@ export default class Search extends Component {
             <>
                 <div className="headrecipe"></div>
             <div className="container2">
-                <div className="row">
+                <div className="row5">
                         <div className="col max-auto text-center">
                             <form className="mt-4">
                                 <label htmlFor="search" className="secondary-title">search for recipes</label>
@@ -15,7 +15,7 @@ export default class Search extends Component {
                                     <input type="text" name="search" className="form-control" placeholder="chicken,onion,carrots"
                                         value={search} onChange={handleChange} />
                                     <div className="input-group-append">
-                                        <button className="secondary-title btn rounded" type="submit" onClick={handleSubmit}>
+                                        <button className="secondary-title btn rounded-right" type="submit" onClick={handleSubmit}>
                                             SEARCH
                                         </button>
                                     </div>
