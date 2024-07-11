@@ -2,10 +2,11 @@ body {
     font-family: "Lora", serif!important;
 }
 .title-head {
-    font-family: "Bona Nova SC", serif;
+    font-family: "Bona Nova SC", serif!important;
 }
 .title-italic {
-    font-family: "Allison", cursive;
+    font-family: "Allison", cursive!important;
+    font-size: 70px!important;
 }
 .secondary-title {
     font-family: "Arsenal SC", sans-serif!important;
