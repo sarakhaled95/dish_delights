@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Recipe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Recipe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\RecipeList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\RecipeList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\data\\tempList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\tempList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\data\\tempDetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\tempDetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\images\\search.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\images\\search.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\SingleRecipe.js||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\SingleRecipe.js||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Default.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Default.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\node_modules\\eslint-config-react-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -33,22 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\node_modules\\color-name\\.eslintrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\color-name\\.eslintrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +102,123 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tempDetails.js",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\data\\tempDetails.js",
+              "RelativeDocumentMoniker": "src\\data\\tempDetails.js",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\data\\tempDetails.js",
+              "RelativeToolTip": "src\\data\\tempDetails.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T14:35:36.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "search.jpg - Bitmap [512x512, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\images\\search.jpg",
+              "RelativeDocumentMoniker": "src\\images\\search.jpg",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\images\\search.jpg - Bitmap [512x512, 24 bit, JPG]",
+              "RelativeToolTip": "src\\images\\search.jpg - Bitmap [512x512, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-09T12:56:46.178Z",
+              "EditorCaption": " - Bitmap [512x512, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "tempList.js",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\data\\tempList.js",
+              "RelativeDocumentMoniker": "src\\data\\tempList.js",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\data\\tempList.js",
+              "RelativeToolTip": "src\\data\\tempList.js",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAnBwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T12:01:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recipe.js",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Recipe.js",
+              "RelativeDocumentMoniker": "src\\components\\Recipe.js",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Recipe.js",
+              "RelativeToolTip": "src\\components\\Recipe.js",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-07T17:12:24.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeList.js",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\RecipeList.js",
+              "RelativeDocumentMoniker": "src\\components\\RecipeList.js",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\RecipeList.js",
+              "RelativeToolTip": "src\\components\\RecipeList.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-07T17:08:43.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.js",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Search.js",
+              "RelativeDocumentMoniker": "src\\components\\Search.js",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Search.js",
+              "RelativeToolTip": "src\\components\\Search.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-07T17:08:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Navbar.css",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Navbar.css",
+              "RelativeDocumentMoniker": "src\\components\\Navbar.css",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Navbar.css",
+              "RelativeToolTip": "src\\components\\Navbar.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-07T17:07:09.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.js",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\About.js",
+              "RelativeDocumentMoniker": "src\\pages\\About.js",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\About.js",
+              "RelativeToolTip": "src\\pages\\About.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-06T11:28:59.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navbar.js",
+              "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Navbar.js",
+              "RelativeDocumentMoniker": "src\\components\\Navbar.js",
+              "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\components\\Navbar.js",
+              "RelativeToolTip": "src\\components\\Navbar.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-06T10:38:43.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": ".eslintrc.json",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\node_modules\\color-name\\.eslintrc.json",
               "RelativeDocumentMoniker": "node_modules\\color-name\\.eslintrc.json",
@@ -74,23 +226,25 @@
               "RelativeToolTip": "node_modules\\color-name\\.eslintrc.json",
               "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-05T17:33:56.581Z"
+              "WhenOpened": "2024-07-05T17:33:56.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Default.js",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Default.js",
               "RelativeDocumentMoniker": "src\\pages\\Default.js",
               "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Default.js",
               "RelativeToolTip": "src\\pages\\Default.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-05T17:03:32.834Z"
+              "WhenOpened": "2024-07-05T17:03:32.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "SingleRecipe.js",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\SingleRecipe.js",
               "RelativeDocumentMoniker": "src\\pages\\SingleRecipe.js",
@@ -103,31 +257,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Recipes.js",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Recipes.js",
               "RelativeDocumentMoniker": "src\\pages\\Recipes.js",
               "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Recipes.js",
               "RelativeToolTip": "src\\pages\\Recipes.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-05T17:02:12.219Z"
+              "WhenOpened": "2024-07-05T17:02:12.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Home.js",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Home.js",
               "RelativeDocumentMoniker": "src\\pages\\Home.js",
               "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\pages\\Home.js",
               "RelativeToolTip": "src\\pages\\Home.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-05T17:02:03.369Z"
+              "WhenOpened": "2024-07-05T17:02:03.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\index.js",
               "RelativeDocumentMoniker": "src\\index.js",
@@ -135,11 +291,12 @@
               "RelativeToolTip": "src\\index.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-05T15:40:24.038Z"
+              "WhenOpened": "2024-07-05T15:40:24.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\node_modules\\eslint-config-react-app\\package.json",
               "RelativeDocumentMoniker": "node_modules\\eslint-config-react-app\\package.json",
@@ -147,11 +304,12 @@
               "RelativeToolTip": "node_modules\\eslint-config-react-app\\package.json",
               "ViewState": "AQIAABkAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-05T15:31:40.515Z"
+              "WhenOpened": "2024-07-05T15:31:40.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\index.css",
               "RelativeDocumentMoniker": "src\\index.css",
@@ -159,36 +317,38 @@
               "RelativeToolTip": "src\\index.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-05T15:17:26.838Z"
+              "WhenOpened": "2024-07-05T15:17:26.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
               "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\App.css",
               "RelativeToolTip": "src\\App.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-05T15:08:38.961Z"
+              "WhenOpened": "2024-07-05T15:08:38.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "App.js",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\App.js",
               "RelativeDocumentMoniker": "src\\App.js",
               "ToolTip": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\src\\App.js",
               "RelativeToolTip": "src\\App.js",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-07-05T12:01:03.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\public\\index.html",
               "RelativeDocumentMoniker": "public\\index.html",
@@ -196,11 +356,12 @@
               "RelativeToolTip": "public\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAC1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-05T11:39:05.459Z"
+              "WhenOpened": "2024-07-05T11:39:05.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\Sara\\Source\\Repos\\pinch-of-salt\\package.json",
               "RelativeDocumentMoniker": "package.json",

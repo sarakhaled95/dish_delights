@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 export default class SingleRecipe extends Component {
     constructor(props) {
         super(props)
-        console.log(this.props)
         const id = this.props.label;
         this.state = {
             recipe: recipeData,
@@ -38,7 +37,7 @@ export default class SingleRecipe extends Component {
                         <ul className="list-group my-1">
                             <h6 className="mx-2">INGREDIENTS</h6>
                             {ingredientLines.map((item, index)=>{
-                                return (<li key={index} className="mx-2">{item }</li>);
+                                return (<li key={index} className="list-group-item mx-2">{item }</li>);
                             })}
                         </ul>
                     </div>
