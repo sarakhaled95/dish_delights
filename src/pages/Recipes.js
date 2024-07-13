@@ -10,10 +10,9 @@ const Recipes = () => {
 
     useEffect(() => {
         const fetchRecipes = async () => {
-            const apiKey = '4c99fbd8edcb0e2995b2bbde99e329c0'; // Replace with your Edamam API Key
-            const appId = 'b1bea976';   // Replace with your Edamam App ID
-             // Example query
-
+            const apiKey = '4c99fbd8edcb0e2995b2bbde99e329c0'; 
+            const appId = 'b1bea976';
+            
             try {
                 const response = await fetch(
                     `https://api.edamam.com/search?q=${searchQuery}&app_id=${appId}&app_key=${apiKey}`
@@ -41,7 +40,7 @@ const Recipes = () => {
 
 
     const handleSearch = (searchQuery) => {
-        setSearchQuery(searchQuery); // Update query state with new search query
+        setSearchQuery(searchQuery); 
     };
 
     if (loading) return <div className="container">
