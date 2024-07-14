@@ -62,7 +62,7 @@ const Recipes = () => {
                             <img src={recipe.recipe.image} alt={recipe.recipe.label} />
                             <div className="card-body secondary-title"><h6>{recipe.recipe.label}</h6></div>
                             <div className="container3">
-                                <Link to={`/recipes/${encodeURIComponent(recipe.recipe.label)}`} className="btn mx-2 mb-3">Details</Link>
+                                <Link to={`/pinch-of-salt-app/recipes/${encodeURIComponent(recipe.recipe.label)}`} className="btn mx-2 mb-3">Details</Link>
                                 <a href={recipe.recipe.url} target="_blank" rel="noopener noreferrer" className="btn mx-2 mb-3">Recipe url</a>
                             </div>
                         </div>

@@ -53,7 +53,7 @@ const RecipeList = () => {
         <div className="container my-3">
             <div className="row">
                 <div className="col-10 mx-auto col-md-6 my-5">
-                    <Link to="/recipes" className="btn mb-5">BACK TO SEARCH</Link>
+                    <Link to="/pinch-of-salt-app/recipes" className="btn mb-5">BACK TO SEARCH</Link>
                     <img src={recipe.image} className="d-block w-100" style={{ maxHeight: "30rem" }} alt="recipe"></img>
                 </div>
                 <div className="col-10 mx-auto col-md-6 my-5">
