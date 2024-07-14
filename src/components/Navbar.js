@@ -4,12 +4,13 @@ import './Navbar.css';
 
 export default function Navbar() {
     return (
-        <nav className="navbar navbar-expand-md navbar-dark bg-dark p-2">
+        <nav className="navbar navbar-expand-md navbar-dark bg-dark p-1">
             <Link to="/" className="navbar-brand">
                 PINCH OF SALT
             </Link>
-            <div className="collapse navbar-collapse show ml-sm-5" >
-                <ul className="navbar-nav ml-auto">
+            <button className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#x"><span className="navbar-toggler-icon"></span></button>
+            
+                <ul id="x" className="navbar-nav collapse navbar-collapse ml-auto">
                     <li className="navbar-item">
                     <Link className="nav-link" to="/">
                         Home
@@ -26,7 +27,6 @@ export default function Navbar() {
                     </Link>
                     </li>
                 </ul>
-            </div>
         </nav>
     );
 }
