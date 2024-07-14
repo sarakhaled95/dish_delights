@@ -51,10 +51,14 @@ body {
     background-color: white;
 }
 .headrecipe {
-    background: url("./images/recipe.jpg") center no-repeat;
+    background: url("./images/Chicken.jpg") center no-repeat;
     height: 130px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
 .row5{
     width: 55%;
+}
+.footer {
+    height: 40px;
+    margin-top: -15px;
 }

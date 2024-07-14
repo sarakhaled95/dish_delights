@@ -14,7 +14,8 @@ const Search = ({ onSearch }) => {
 
     return (
         <>
-            <div className="headrecipe"></div>
+            <div className="headrecipe">
+            </div>
             <div className="container2 mt-5">
         <div className="row5">
             <form onSubmit={handleSubmit}>
