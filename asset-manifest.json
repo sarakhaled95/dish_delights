@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pinch-of-salt-app/static/css/main.04137820.css",
+    "main.js": "/pinch-of-salt-app/static/js/main.b3e1ce43.js",
+    "static/js/453.4267d509.chunk.js": "/pinch-of-salt-app/static/js/453.4267d509.chunk.js",
+    "static/media/Chicken.jpg": "/pinch-of-salt-app/static/media/Chicken.34add593ee4cc2bbd547.jpg",
+    "static/media/homebg.jpg": "/pinch-of-salt-app/static/media/homebg.d24178315cea574d56f4.jpg",
+    "static/media/toplogo1.jpg": "/pinch-of-salt-app/static/media/toplogo1.305b3749824b8ca659d0.jpg",
+    "static/media/footer.jpg": "/pinch-of-salt-app/static/media/footer.404b170298ea5124a37b.jpg",
+    "index.html": "/pinch-of-salt-app/index.html",
+    "main.04137820.css.map": "/pinch-of-salt-app/static/css/main.04137820.css.map",
+    "main.b3e1ce43.js.map": "/pinch-of-salt-app/static/js/main.b3e1ce43.js.map",
+    "453.4267d509.chunk.js.map": "/pinch-of-salt-app/static/js/453.4267d509.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04137820.css",
+    "static/js/main.b3e1ce43.js"
+  ]
+}
