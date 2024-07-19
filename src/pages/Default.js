@@ -6,7 +6,7 @@ export default class Default extends Component {
             <div className="bgdefault">
                 <div className="default">404</div>
                 <div className="default">YOU ARE IN THE WRONG PLACE</div>
-                <Link to="/" className="secondary-title btn btn-light btn-lg mt-5">RETURN TO HOME</Link>
+                <Link to="/pinch-of-salt-app/" className="secondary-title btn btn-light btn-lg mt-5">RETURN TO HOME</Link>
             </div>
         );
     }

@@ -20,7 +20,7 @@ class App extends Component {
                         <Route path='/pinch-of-salt-app/recipes' exact element={<Recipes />} />
                         <Route path='/pinch-of-salt-app/recipes/:label' element={<RecipeList />} />
                         <Route path='/pinch-of-salt-app/about' element={<About /> } />
-                <Route path='/*' element={<Default />} />
+                        <Route path='/pinch-of-salt-app/*' element={<Default />} />
             </Routes>
             </>
             </Router>
